@@ -61,7 +61,7 @@ Before running this application, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/AniketTancoder/Dish_App.git)
 cd dish-management-app
 ```
 
